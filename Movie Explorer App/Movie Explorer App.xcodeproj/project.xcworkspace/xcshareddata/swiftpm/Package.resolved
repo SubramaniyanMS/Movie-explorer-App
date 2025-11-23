@@ -1,0 +1,24 @@
+{
+  "originHash" : "42ac02e6c6e4fbbfbec462f580719479512d07df5139ba9f28dabb7c30fbede4",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "513364f870f6bfc468f9d2ff0a95caccc10044c5",
+        "version" : "5.10.2"
+      }
+    },
+    {
+      "identity" : "marqueetext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/joekndy/MarqueeText",
+      "state" : {
+        "branch" : "master",
+        "revision" : "22309f6863a182e81a2b4ebbca8cdc044f854b33"
+      }
+    }
+  ],
+  "version" : 3
+}
